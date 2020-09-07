@@ -31,4 +31,6 @@
       <ShipDate>1999-05-21</ShipDate>  
     </Item>  
   </Items>  
+  <Bonuses Atribut="test1">
+  </Bonuses> 
 </PurchaseOrder>  
