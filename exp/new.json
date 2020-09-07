@@ -1,9 +1,18 @@
-
-{
-    "name": "John",
-    "age": 33,
-    "Adress": {
-        "city": "Tomsk",
-        "street": "Lenina"
+[
+    {
+        "name": "John",
+        "age": 33,
+        "Adress": {
+            "city": "Tomsk",
+            "street": "Lenina"
+        }
+    },
+    {
+        "name": "Peter",
+        "age": 5000,
+        "Adress": {
+            "city": "Vilenstone",
+            "street": "Bloody"
+        }
     }
-}
+]
