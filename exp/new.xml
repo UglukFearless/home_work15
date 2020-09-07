@@ -30,5 +30,7 @@
       <USPrice>39.98</USPrice>  
       <ShipDate>1999-05-21</ShipDate>  
     </Item>  
-  </Items>  
+  </Items>
+  <Bonuses Atribut="test1">
+  </Bonuses> 
 </PurchaseOrder>  
